@@ -1,4 +1,4 @@
-# Restaurant-Review-Sentiment-Analysis
+# [Restaurant-Review-Sentiment-Analysis](https://github.com/parthshah28/Restaurant_review_analysis)
 
 ![](https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/download.jpg)
 
