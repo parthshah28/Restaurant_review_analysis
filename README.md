@@ -1,12 +1,12 @@
 # [Restaurant-Review-Sentiment-Analysis](https://github.com/parthshah28/Restaurant_review_analysis)
 
-![](https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/download.jpg)
+<img src="https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/download.jpg" width=600>
 
 ---
 
 ### Web APP on Heroku
 
-![](https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/3.png) ![](https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/4.png)
+<table><tr><td><img src='https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/3.png' width=500></td><td><img src='https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/4.png' width=500></td></tr></table>
 
 ### **[Web App](https://restaurantreview-analysis.herokuapp.com/)**
 
@@ -14,10 +14,10 @@
 ## **Understanding The Project**
 
 ### **The Dataset**
-***
+
 ![Dataset](https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/Screenshot%20(96).png)
 
----
+
 ## **Overview**
 * Dataset has **10000 rows** and **8 columns**.
 * We have to predict whether a review is **"Positive"** or **"Negative"**.
@@ -25,7 +25,7 @@
 * I have also tried **WordEmbedding** with **LSTM**.
 * I have applied many different algorithms **LSTM**, **Bi-Directional LSTM**, **RandomForestClassifier**, **MultinomialNB**, **SVM** and **KNN**.
 
----
+
 ## **Details**
 * From this Dataset, To Perform NLP Project, I decided to take **"Review"** and **"Rating columns"**.
 * Later After cleaning the columns, I converted **"Rating"** Column, which is actually a numerical column, into the column that has two labels **"Positive"** and **"Negative"**.
