@@ -6,8 +6,8 @@
 
 ### Web APP on Heroku
 
-![](https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/1.png)
-![](https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/2.png)
+![](https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/3.png)
+![](https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/4.png)
 
 ### **[Web App](https://restaurantreview-analysis.herokuapp.com/)**
 
