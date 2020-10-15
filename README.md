@@ -6,7 +6,7 @@
 
 ### Web APP on Heroku
 
-<table><tr><td><img src='https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/3.png' width=500></td><td><img src='https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/4.png' width=500></td></tr></table>
+<table><tr><td><img src='https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/3.png'></td><td><img src='https://github.com/parthshah28/Restaurant_review_analysis/blob/main/images/4.png'></td></tr></table>
 
 ### **[Web App](https://restaurantreview-analysis.herokuapp.com/)**
 
